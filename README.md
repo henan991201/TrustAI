@@ -23,7 +23,9 @@
 
 
 ## News 📢
-* 🔥 2022.8.20 TrustAI[发布](https://mp.weixin.qq.com/s/Ph3uzbUEUj1K7UALdM6OCA)可信增强能力及应用案例
+* 🔥 2022.8.29~2022.11.4 [文心大模型·阅读理解可解释评测](https://aistudio.baidu.com/aistudio/competition/detail/394/0/introduction)火热报名中
+* 🔥 2022.8.04~2022.9.26 [兴智杯-深度学习模型可解释性赛事](https://aistudio.baidu.com/aistudio/competition/detail/394/0/introduction)火热报名中
+* 👏  2022.8.20 TrustAI[发布](https://mp.weixin.qq.com/s/Ph3uzbUEUj1K7UALdM6OCA)可信增强能力及应用案例
 * 🎉 2022.5.20 TrustAI首次[发布](https://mp.weixin.qq.com/s/AqYReKRnki9TwI5huY1f5Q)！
 
 ## <p id="可信分析功能">👏可信分析功能</p>
@@ -248,6 +250,21 @@ result = interpreter(model_inputs)
 
 </details>
 
+## 相关赛事
+
+<details><summary> &emsp;进行中</summary>
+
+* [文心大模型·阅读理解可解释评测](https://aistudio.baidu.com/aistudio/competition/detail/394/0/introduction)
+* [兴智杯-深度学习模型可解释性赛事](https://aistudio.baidu.com/aistudio/competition/detail/394/0/introduction)
+* [千言数据集-可解释性评测常规赛](https://www.luge.ai/#/luge/task/taskDetail?taskId=15)
+
+</details>
+
+<details><summary> &emsp;已结束</summary>
+
+* [2022语言与智能技术竞赛：情感可解释评测](https://aistudio.baidu.com/aistudio/competition/detail/159/0/introduction)
+
+</details>
 
 ## 引用
 要引用 TrustAI 进行研究，请使用以下格式进行引用。
